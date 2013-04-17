@@ -41,3 +41,7 @@ They're cool and we could do some fun visualisation of recent discoveries or som
 GIFBank
 -------
 I have too many gifs and need to organise them. Would be great to be able to tweet them easily.
+
+Am I grumpy?
+------------
+Sentiment analysis of twitter accounts to see how grumpy you are. 
