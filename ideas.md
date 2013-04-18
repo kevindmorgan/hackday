@@ -44,4 +44,8 @@ I have too many gifs and need to organise them. Would be great to be able to twe
 
 Am I grumpy?
 ------------
-Sentiment analysis of twitter accounts to see how grumpy you are. 
+Sentiment analysis of twitter accounts to see how grumpy you are.
+
+Number of days since...
+-----------------------
+Small app iPad/web that allows you to display "Number of days since last [num]". Plugin for CI. http://www.london-electronics.com/rockwood_small.gif.
