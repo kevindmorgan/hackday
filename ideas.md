@@ -33,3 +33,7 @@ A hyper local crowd sourced (if I can get in game mechanics I win at wanker bing
 Train locator
 -------------
 A mobile app for telling you where you are on your current train and estimated time for the next stations. You can sort of do this with things like thetrainline but this would use your location to work out what train you are on and deliver a very simple view of the upcoming stations and what times you would arrive at them.
+
+Real-time comic book creator
+----------------------------
+Generates a comic book based off of a particular hashtag from Instagram and Twitter. Tweets will be put into speech bubbles of pre-taken photos, instagrams will just be panels. The photos will be stylised to look like comic drawings.
