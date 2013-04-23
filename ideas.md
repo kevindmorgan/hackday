@@ -49,3 +49,9 @@ Sentiment analysis of twitter accounts to see how grumpy you are.
 Number of days since...
 -----------------------
 Small app iPad/web that allows you to display "Number of days since last [num]". Plugin for CI. http://www.london-electronics.com/rockwood_small.gif.
+
+The Picard Project
+------------------
+Using face detection generate gifs of scenes from the entire run of ST:TNG featuring Captain Picard.
+
+Put them on the internet. Become legends.
