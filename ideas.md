@@ -55,3 +55,7 @@ The Picard Project
 Using face detection generate gifs of scenes from the entire run of ST:TNG featuring Captain Picard.
 
 Put them on the internet. Become legends.
+
+Things to do while running tests
+--------------------------------
+One of those sites like whatthefuckshouldimakefordinner that gives a random suggestion for an activity to perform while waiting for tests to finish... no wait, there are other things you can do. Seriously, grow up.
