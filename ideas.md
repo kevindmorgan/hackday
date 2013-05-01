@@ -59,3 +59,7 @@ Put them on the internet. Become legends.
 Things to do while running tests
 --------------------------------
 One of those sites like whatthefuckshouldimakefordinner that gives a random suggestion for an activity to perform while waiting for tests to finish... no wait, there are other things you can do. Seriously, grow up.
+
+Real time comic book generator
+------------------------------
+Grabs tweets and instagrams and generates a realtime comic book using shaders and stuff.
