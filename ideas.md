@@ -16,7 +16,8 @@ Web version of Gource using d3 https://github.com/kevindmorgan/jource.
 
 Non-boardgame game with boardgame mechanics
 -------------------------------------------
-?!
+Dinosaurs vs Ninjas (name ripped off from a Potato idea)
+A top-down, turn-baserd asynchronous shooter reminiscent of Frozen Synapse and Space Hulk. One player controls the ninjas much like Frozen Synapse and one player controls a dinosaur (who shoots ninjas) but plays in real time.
 
 Online portfolio
 ----------------
@@ -37,3 +38,7 @@ A mobile app for telling you where you are on your current train and estimated t
 Real-time comic book creator
 ----------------------------
 Generates a comic book based off of a particular hashtag from Instagram and Twitter. Tweets will be put into speech bubbles of pre-taken photos, instagrams will just be panels. The photos will be stylised to look like comic drawings.
+
+Game plays tracker
+------------------
+Similar to boardgame geeks play tracker but with more infographics and data analysis e.g. ELO rankings. Sort of Gamecenter but for real life games.
