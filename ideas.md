@@ -42,3 +42,31 @@ Generates a comic book based off of a particular hashtag from Instagram and Twit
 Game plays tracker
 ------------------
 Similar to boardgame geeks play tracker but with more infographics and data analysis e.g. ELO rankings. Sort of Gamecenter but for real life games.
+
+=======
+Exoplanets
+----------
+They're cool and we could do some fun visualisation of recent discoveries or something.
+
+GIFBank
+-------
+I have too many gifs and need to organise them. Would be great to be able to tweet them easily.
+
+Am I grumpy?
+------------
+Sentiment analysis of twitter accounts to see how grumpy you are.
+
+Number of days since...
+-----------------------
+Small app iPad/web that allows you to display "Number of days since last [num]". Plugin for CI. http://www.london-electronics.com/rockwood_small.gif.
+
+The Picard Project
+------------------
+Using face detection generate gifs of scenes from the entire run of ST:TNG featuring Captain Picard.
+
+Put them on the internet. Become legends.
+
+Things to do while running tests
+--------------------------------
+One of those sites like whatthefuckshouldimakefordinner that gives a random suggestion for an activity to perform while waiting for tests to finish... no wait, there are other things you can do. Seriously, grow up.
+
