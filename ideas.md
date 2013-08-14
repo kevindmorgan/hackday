@@ -43,7 +43,6 @@ Game plays tracker
 ------------------
 Similar to boardgame geeks play tracker but with more infographics and data analysis e.g. ELO rankings. Sort of Gamecenter but for real life games.
 
-=======
 Exoplanets
 ----------
 They're cool and we could do some fun visualisation of recent discoveries or something.
